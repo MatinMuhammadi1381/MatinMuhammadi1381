@@ -1,24 +1,41 @@
-# 💫 About Me:
-🔭 I’m Matin<br>👯 I’m looking to collaborate <br>🤝 I’m looking for help with<br>🌱 I’m currently learning React.js<br>💬 Ask me about
+# Matin Muhammadi
 
+Front-end developer focused on building modern, responsive, and user-friendly web interfaces.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Matin_muhammadi.2001) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:matin.muhammadi.2001@gmail.com) 
+## About Me
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MatinMuhammadi1381&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MatinMuhammadi1381&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MatinMuhammadi1381&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- Currently learning and building with React.js
+- Interested in front-end development, UI design, and full-stack web projects
+- Based around JavaScript, TypeScript, React, Tailwind CSS, and modern web tooling
+- Always exploring better ways to make interfaces clear, fast, and enjoyable to use
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MatinMuhammadi1381&theme=vue-dark&no-frame=false&no-bg=false&margin-w=4)
+## Selected Projects
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MatinMuhammadi1381&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- [Matin Portfolio](https://github.com/MatinMuhammadi1381/Matin_portfolio) — personal portfolio and project showcase
+- [Phone Shop](https://github.com/MatinMuhammadi1381/phone-shop) — full-stack phone marketplace
+- [EdgeAI Landing Page](https://github.com/MatinMuhammadi1381/Landing_page) — AI SaaS landing page
+- [Nike Project](https://github.com/MatinMuhammadi1381/Nike_project) — responsive product showcase
+- [Bank Project](https://github.com/MatinMuhammadi1381/Bank_project) — fintech landing page
+- [Factor Form](https://github.com/MatinMuhammadi1381/Factor_Form) — invoice interface prototype
+- [To-Do List](https://github.com/MatinMuhammadi1381/To-Do-List) — React task manager
 
----
-[![](https://visitcount.itsvg.in/api?id=MatinMuhammadi1381&icon=0&color=0)](https://visitcount.itsvg.in)
+## Tech Stack
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+## Connect
+
+- [GitHub](https://github.com/MatinMuhammadi1381)
+- [Instagram](https://instagram.com/Matin_muhammadi.2001)
+- [Email](mailto:matin.muhammadi.2001@gmail.com)
+
+Feel free to explore the repositories and get in touch.
